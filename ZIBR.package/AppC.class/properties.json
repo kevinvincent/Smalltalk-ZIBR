@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "ExprC",
+	"category" : "ZIBR",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"body",
+		"parms"
+	],
+	"name" : "AppC",
+	"type" : "normal"
+}
