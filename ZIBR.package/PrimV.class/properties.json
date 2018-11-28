@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Value",
+	"category" : "ZIBR",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"operator"
+	],
+	"name" : "PrimV",
+	"type" : "normal"
+}
