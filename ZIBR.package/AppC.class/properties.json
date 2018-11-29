@@ -1,13 +1,14 @@
 {
 	"commentStamp" : "",
-	"super" : "Object",
+	"super" : "ExprC",
 	"category" : "ZIBR",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"booleans"
+		"body",
+		"parms"
 	],
-	"name" : "BoolC",
+	"name" : "AppC",
 	"type" : "normal"
 }

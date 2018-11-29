@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "ExprC",
+	"category" : "ZIBR",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"numberVal"
+	],
+	"name" : "NumC",
+	"type" : "normal"
+}

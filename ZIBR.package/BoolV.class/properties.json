@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Value",
+	"category" : "ZIBR",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"boolValue"
+	],
+	"name" : "BoolV",
+	"type" : "normal"
+}
