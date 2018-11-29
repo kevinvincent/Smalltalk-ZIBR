@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "",
-	"super" : "Object",
+	"super" : "ExprC",
 	"category" : "ZIBR",
 	"classinstvars" : [
 		"bools"
