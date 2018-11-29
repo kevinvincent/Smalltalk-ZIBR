@@ -3,7 +3,7 @@
 	"super" : "Object",
 	"category" : "ZIBR",
 	"classinstvars" : [
-		"statements"
+		"bools"
 	],
 	"pools" : [ ],
 	"classvars" : [ ],
