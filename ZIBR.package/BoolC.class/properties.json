@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "ZIBR",
+	"classinstvars" : [
+		"statements"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"booleans"
+	],
+	"name" : "BoolC",
+	"type" : "normal"
+}
