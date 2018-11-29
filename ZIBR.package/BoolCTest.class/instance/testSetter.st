@@ -1,7 +1,9 @@
 tests
 testSetter
-	"Test accessing the value BoolC"
+	"Test accessing the value of IdC"
 	| testBoolC |
-
-	testBoolC boolValue: false.
+	testBoolC := BoolC new boolValue: false.
 	self assert: (testBoolC boolValue) equals: false.
+	
+	testBoolC boolValue: true.
+	self assert: (testBoolC boolValue) equals: true.
